@@ -14,7 +14,7 @@ const App = () => (
     <TooltipProvider>
       <Toaster />
       <Sonner />
-      <BrowserRouter>
+      <BrowserRouter basename="/missed-call-catch">
         <Routes>
           <Route path="/" element={<Index />} />
           <Route path="/calculator" element={<Calculator />} />
