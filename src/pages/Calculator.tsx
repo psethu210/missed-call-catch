@@ -161,12 +161,6 @@ const Calculator = () => {
                 </div>
               </div>
               
-              <Button
-                size="lg"
-                className="bg-gradient-primary hover:shadow-primary text-primary-foreground px-8 py-6 text-lg font-semibold rounded-full transform transition-all duration-300 hover:scale-105"
-              >
-                Get Started Risk-Free For 7 Days!
-              </Button>
             </div>
           </div>
         </div>

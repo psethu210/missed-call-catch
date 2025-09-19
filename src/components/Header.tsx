@@ -22,9 +22,6 @@ const Header = () => {
           >
             ROI Calculator
           </Link>
-          <Button variant="outline" className="border-primary text-primary hover:bg-primary hover:text-primary-foreground">
-            Try A Demo
-          </Button>
         </div>
       </div>
     </header>
